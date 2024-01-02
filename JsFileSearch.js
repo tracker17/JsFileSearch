@@ -7,32 +7,7 @@ let data = {
   duke: {
     instance: "h1",
     agent_id: "329",
-    access_token: "262f1f3686774c2f9cea64dcb068afc2",
-  },
-  rssl: {
-    instance: "c0",
-    agent_id: "34965929",
-    access_token: "df15fa874fe14df994ca2bedf70deee5",
-  },
-  mtsinai: {
-    instance: "h1",
-    agent_id: "3319",
-    access_token: "60d8bd51fbe446d4b8c41c61e31951fa",
-  },
-  mtsinai_ivr: {
-    instance: "h1",
-    agent_id: "5714",
-    access_token: "60d8bd51fbe446d4b8c41c61e31951fa",
-  },
-  jh_reference: {
-    instance: "h1",
-    agent_id: "5718",
-    access_token: "60d8bd51fbe446d4b8c41c61e31951fa",
-  },
-  aish_wipro: {
-    instance: "ci2",
-    agent_id: "96",
-    access_token: "7e5c856da247486497797dec4af330f9",
+    access_token: "26****",
   },
 };
 
