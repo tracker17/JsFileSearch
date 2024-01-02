@@ -1,0 +1,19 @@
+{
+  "name": "jsfiles",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ESTEpoch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tracker17/JsFileSearch.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tracker17/JsFileSearch/issues"
+  },
+  "homepage": "https://github.com/tracker17/JsFileSearch#readme"
+}
